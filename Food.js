@@ -1,0 +1,16 @@
+class Food {
+
+    constructor(){
+
+
+    }
+
+    display(){
+
+
+    }
+
+    
+
+
+}
